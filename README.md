@@ -38,3 +38,10 @@ TRADE_OTHER('AUTO');        // 自动切换主力合约
 
 ![IMG_9667](https://github.com/user-attachments/assets/7f005f03-b00b-4f25-9afa-3d897f4e1c80)
 
+![IMG_9668](https://github.com/user-attachments/assets/0f78a136-704f-4c6f-9173-c290b7f3a908)
+
+![IMG_9670](https://github.com/user-attachments/assets/8fbe4a51-3faf-4b90-9b8a-dff409a945b2)
+
+![IMG_9672](https://github.com/user-attachments/assets/3adb9dfc-58fe-4935-b4dc-7e829a01b74c)
+
+![IMG_9673](https://github.com/user-attachments/assets/2afab977-7ed8-4061-ba16-cb8c28fba82b)
